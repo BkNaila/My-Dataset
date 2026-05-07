@@ -33,7 +33,7 @@ Test : 5%          30 861
 
 
 ## Temps 
-![Loss Curves](images/TempsXgboostBaseline.png.png)
+![Loss Curves](images/TempsXgboostBaseline.png)
 
 
 | Métrique | Valeur |
@@ -45,13 +45,13 @@ Test : 5%          30 861
 | ROC-AUC | 1.0000 |
 
 ## Courbes de Loss
-![Loss Curves](images/XgboostBaseline.png.png)
+![Loss Curves](images/XgboostBaseline.png)
 
 ## Matrice de Confusion
-![Confusion Matrix](images/XgboostBaselinaMatrice.png.png)
+![Confusion Matrix](images/XgboostBaselinaMatrice.png)
 
 ## Top 15 Features
-![Feature Importance](images/XgBoostBaselineTopFeatures.png.png)
+![Feature Importance](images/XgBoostBaselineTopFeatures.png)
 
 
 
